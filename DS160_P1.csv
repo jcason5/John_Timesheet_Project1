@@ -1,19 +1,19 @@
 ﻿Project 1,,,,
 initials,date,course_id,Time(m),summary
-JC,1/8/24,Acct-215-01,75,class
+JC,1/8/24,Acct-215-01,50,class
 JC,1/8/24,Acct-441-01,75,class
-JC,1/8/24,Spor-101-01,75,class
+JC,1/8/24,Spor-101-01,50,class
 JC,1/9/24,DS-160-01,75,class and assignment
 JC,1/9/24,MKTG-330-01,75,class
-JC,1/10/24,Acct-215-01,75,class
+JC,1/10/24,Acct-215-01,50,class
 JC,1/10/24,Acct-441-01,75,class
 JC,1/10/24,Spor-101-01,75,class and assignment
 JC,1/11/24,DS-160-01,75,class and assignment
 JC,1/11/24,MKTG-330-01,75,class
-JC,1/12/24,Acct-215-01,75,class
+JC,1/12/24,Acct-215-01,50,class
 JC,1/12/24,Acct-441-01,75,class
-JC,1/12/24,Spor-101-01,75,class
-JC,1/15/24,Acct-215-01,75,class
+JC,1/12/24,Spor-101-01,50,class
+JC,1/15/24,Acct-215-01,50,class
 JC,1/15/24,Acct-441-01,75,class
 JC,1/15/24,Spor-101-01,75,class and assignment
 JC,1/16/24,DS-160-01,75,class and statistics assignment
@@ -21,5 +21,8 @@ JC,1/16/24,MKTG-330-01,75,class
 JC,1/17/24,DS-160-01,75,class and statistics assigment
 JC,1/17/24,MKTG-330-01,90,quiz 1 and class
 JC,1/19/24,none,0,classes canceled
-,,,,
-,,,,
+JC,1/19/24,Acct-441-01,30,read al capone case study
+JC,1/22/24,Spor-101-02,50,class
+JC,1/22/24,Spor-101-03,30,SWAT analysis assignment 2
+JC,1/22/24,Acct-215-01,50,class
+JC,1/22/24,Acct-441-01,90,class and discussion of al capone case presentation
